@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Abdelaleem
-- 🌱 I’m currently learning Python and Java script
-- 💞️ I’m looking to collaborate on Data analysis and SQL
+- 🌱 I’m currently learning everything 
+- 💞️ I’m looking to collaborate with other data scientists and ML experts.
 - 📫 How to reach me Oabdelaleem41@gmail.com
 
 <!---
