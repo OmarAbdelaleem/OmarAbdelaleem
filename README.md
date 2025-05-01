@@ -52,7 +52,15 @@
   <img title="NOSQL" height="45" src="images/NOSQL.png" />
   <img width="12" />
   <img title="ORACLE" height="45" src="images/Oracle.png" />
+  <img width="12" />
   <img title="Denodo" height="45" src="images/Denodo_logo.png" />
+  <img width="12" />
+  <img title="AWS" height="45" src="images/Amazon-S3-Logo.svg" />
+  <img width="12" />
+  <img title="AWS" height="45" src="images/Amazon_Web_Services_Logo.svg" />
+  <img width="12" />
+  <img title="AWS" height="45" src="images/redshift" />
+  <img width="12" />
 </p>
 <hr>
 </div>
