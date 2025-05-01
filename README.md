@@ -55,11 +55,11 @@
   <img width="12" />
   <img title="Denodo" height="45" src="images/Denodo_logo.png" />
   <img width="12" />
-  <img title="AWS S3" height="45" src="images/Amazon-S3-Logo.svg" />
+  <img title="AWS S3" height="45" src="images/Amazon-S3-Logo.svg.png" />
   <img width="12" />
-  <img title="AWS" height="45" src="images/Amazon_Web_Services_Logo.svg" />
+  <img title="AWS" height="45" src="images/Amazon_Web_Services_Logo.svg.png" />
   <img width="12" />
-  <img title="AWS Redshift" height="45" src="images/redshift" />
+  <img title="AWS Redshift" height="45" src="images/redshift.png" />
   <img width="12" />
 </p>
 <hr>
