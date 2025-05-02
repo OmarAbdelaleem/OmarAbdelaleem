@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Omar and I'm a Data Enthusiast, from Egypt</h1>
+<h1 align="center">Hi 👋! My name is Omar and I'm a Data Enthusiast</h1>
 
 ###
 
